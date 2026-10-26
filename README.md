@@ -14,7 +14,7 @@
 
 Software & AI Engineer specializing in **full-stack development** and **modern agentic systems**. I build scalable web platforms and AI-driven solutions using LLMs, prompt engineering and multi-agent architectures (ADK, MCP, Skills, RAG). I also come from an electronics/embedded background, so I like projects where software meets hardware.
 
-📍 Sousse, Tunisia · 🎓 Software Engineering student at **EPI SUP** · 🗣️ French B2 / English B2
+📍 Sousse, Tunisia · 🗣️ French B2 / English B2
 
 ## What I'm Working On
 
